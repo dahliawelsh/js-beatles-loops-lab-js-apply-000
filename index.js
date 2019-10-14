@@ -1,4 +1,4 @@
-function theBeatlesPlay() {
+function theBeatlesPlay('musicians','instruments') {
   Array = ['John Lennon','guitar'];
   array ();
   var i;
